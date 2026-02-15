@@ -9,3 +9,7 @@ openinference-instrumentation-litellm
 litellm
 python-dotenv
 groq
+fastapi
+uvicorn
+apscheduler
+fastapi_sso
