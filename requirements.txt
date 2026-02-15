@@ -1,0 +1,11 @@
+crewai>=0.30.0
+tavily-python
+yfinance
+numpy
+pandas
+langfuse
+openinference-instrumentation-crewai
+openinference-instrumentation-litellm
+litellm
+python-dotenv
+groq
